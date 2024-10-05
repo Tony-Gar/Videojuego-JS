@@ -1,2 +1,20 @@
 # Videojuego-JS
 Práctica de JS 
+UNIVERSIDAD TECNOLÓGICA DE LA SIERRA HIDALGUENSE
+INGENIERÍA EN DESARROLLO Y GESTIÓN DE SOFTWARE MULTIPLATAFORMA   
+
+
+Desarrollo de Aplicaciones Progresivas
+
+Videojuego JS
+
+Antolín García Pérez
+2021024
+10IDGSM-G1
+
+
+
+
+
+ZACUALTIPÁN DE ÁNGELES, HGO, A 05 DE OCTUBRE 2024.
+
